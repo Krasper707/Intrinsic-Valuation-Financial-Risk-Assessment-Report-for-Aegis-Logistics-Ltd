@@ -1,6 +1,6 @@
 # 📊 Automated DCF & Credit Risk Analysis Tool for Public Companies
 
-This project performs an enhanced **Discounted Cash Flow (DCF)** valuation and **financial risk analysis** for publicly listed companies using Python and Yahoo Finance data. The focus is currently on **Aegis Logistics Ltd. (AEGISLOG.NS)**.
+This project performs an enhanced **Discounted Cash Flow (DCF)** valuation and **financial risk analysis** for publicly listed companies using Python and Yahoo Finance data. The focus is currently on **Aegis Logistics Ltd. (AEGISLOG.NS)**
 
 ---
 
@@ -14,7 +14,7 @@ This project performs an enhanced **Discounted Cash Flow (DCF)** valuation and *
 
 ---
 
-## 🔍 Example Output
+##  🔍 Example Output
 
 A sample Markdown report is generated like:
 
